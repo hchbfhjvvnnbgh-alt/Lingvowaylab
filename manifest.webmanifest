@@ -1,0 +1,33 @@
+{
+  "name": "Lingvo way lab",
+  "short_name": "Lingvo way lab",
+  "id": "Lingvo.way.lab31",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "Lingvoico.png",
+        "sizes": "36x36"
+      },{
+        "src": "Lingvoico.png",
+        "sizes": "48x48"
+      },{
+        "src": "Lingvoico.png",
+        "sizes": "72x72"
+      },{
+        "src": "Lingvoico.png",
+        "sizes": "96x96"
+      },{
+        "src": "Lingvoico.png",
+        "sizes": "144x144"
+      },{
+        "src": "Lingvoico.png",
+        "sizes": "192x192"
+      },{
+        "src": "Lingvoico.png",
+        "sizes": "512x512"
+      }]
+}
